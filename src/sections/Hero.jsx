@@ -25,8 +25,9 @@ const Hero = () => {
                 scale={isMobile ? 0.23: 0.3}
                 position={isMobile ? [0, -1.5, 0] : [0,-1,0]}
               />
+              <OrbitControls/>
             </Float>
-            <OrbitControls/>
+            
             <Rig />
           </Suspense>
         </Canvas>
