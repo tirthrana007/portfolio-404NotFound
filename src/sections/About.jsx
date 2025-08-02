@@ -102,7 +102,7 @@ const About = () => {
           <div className="z-10 w-[50%]">
             <p className="headText">Teck Stack</p>
             <p className="subtext">
-              I specialize in a variety of languages, frameworks, and tools taht
+              We are specialize in a variety of languages, frameworks, and tools taht
               allow me to build robust and scalable applications
             </p>
           </div>
