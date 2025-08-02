@@ -1,8 +1,8 @@
 import { Canvas, useFrame } from "@react-three/fiber";
 import HeroText from "../components/HeroText";
-import ParallaxBackground from "../components/parallaxBackground";
+import ParallaxBackground from "../components/ParallaxBackground";
 import { Astronaut } from "../components/Astronaut";
-import { Float } from "@react-three/drei";
+import { Float, OrbitControls } from "@react-three/drei";
 import { useMediaQuery } from "react-responsive";
 import { easing } from "maath";
 import { Suspense } from "react";
@@ -22,12 +22,11 @@ const Hero = () => {
           <Suspense fallback={<Loader />}>
             <Float>
               <Astronaut
-                scale={isMobile ? 0.23: 0.3}
-                position={isMobile ? [0, -1.5, 0] : [0,-1,0]}
+                scale={isMobile ? 0.23 : 0.3}
+                position={isMobile ? [0, -1.5, 0] : [0, -1, 0]}
               />
-              <OrbitControls/>
+              <OrbitControls />
             </Float>
-            
             <Rig />
           </Suspense>
         </Canvas>
