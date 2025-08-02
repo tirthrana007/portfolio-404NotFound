@@ -1,6 +1,6 @@
-# Developer Portfolio
+# 🖥️Developer Portfolio
 
-A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects which is designed to help you stand out and showcase your skills creatively.
+A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS and motion effects which is designed to help you stand out and showcase your skills creatively.
 
 
 
@@ -34,7 +34,7 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 
 ## 📁 Project Structure
 
-```bash
+```
 ├── public/
 │   ├── assets/             # Images, textures, models
 │   ├── models/             # 3D Astronaut model
@@ -49,14 +49,3 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 ├── tailwind.config.js
 └── vite.config.js
 ```
-
-
-
-```
-The app will be available at http://localhost:5173.
-
----
-
-
-
----
