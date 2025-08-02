@@ -14,7 +14,7 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 - [Getting Started](#-getting-started)
 - [Assets](#-assets)
 - [Contact Me](#-contact-me)
-- [Suggestions or Feedback](#-suggestions-or-feedback)
+
 - [Like This Project?](#-like-this-project)
 
 ---
@@ -84,8 +84,7 @@ The app will be available at http://localhost:5173.
 
 ---
 
-## 🔗 Assets
-Assets used in the project can be found [here](https://github.com/user-attachments/files/19820923/public.zip)
+
 
 ---
 
