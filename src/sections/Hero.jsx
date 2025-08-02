@@ -22,10 +22,11 @@ const Hero = () => {
           <Suspense fallback={<Loader />}>
             <Float>
               <Astronaut
-                scale={isMobile && 0.23}
-                position={isMobile && [0, -1.5, 0]}
+                scale={isMobile ? 0.23: 0.3}
+                position={isMobile ? [0, -1.5, 0] : [0,-1,0]}
               />
             </Float>
+            <OrbitControls/>
             <Rig />
           </Suspense>
         </Canvas>
