@@ -61,7 +61,7 @@ const HeroText = () => {
           animate="visible"
           transition={{ delay: 1 }}
         >
-          Hi,I'm Ali
+           We are 404NotFound
         </motion.p>
         <div>
           <motion.p
