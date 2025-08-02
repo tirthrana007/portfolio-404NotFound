@@ -1,23 +1,9 @@
-# 🚀 3D Developer Portfolio
+# Developer Portfolio
 
-A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
+A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects which is designed to help you stand out and showcase your skills creatively.
 
 
 
----
-
-## 📚 Table of Contents
-
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Assets](#-assets)
-- [Contact Me](#-contact-me)
-
-- [Like This Project?](#-like-this-project)
-
----
 
 ## ✨ Features
 
@@ -64,21 +50,8 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 └── vite.config.js
 ```
 
----
 
-## 🚀 Getting Started
-1. Clone the Repository
-```bash
-git clone https://github.com/Ali-Sanati/Portfolio.git
-cd Portfolio
-```
-2. Install Dependencies
-```bash
-npm install
-```
-3. Run the Development Server
-```bash
-npm run dev
+
 ```
 The app will be available at http://localhost:5173.
 
@@ -87,26 +60,3 @@ The app will be available at http://localhost:5173.
 
 
 ---
-
-
-
----
-
-## 💡 Suggestions or Feedback?
-Leave a comment on the [YouTube video](https://youtu.be/S9UQItTpwUQ) or open an issue here on GitHub.<br/>
-👉 What should I build next?
-
-- A beautiful Landing Page
-
-- A complete E-commerce site
-
-- A fun App Clone (YouTube, Netflix, etc.)
-
-Or another interactive Portfolio
-
-Let me know!
-
----
-
-## ⭐ Like This Project?
-Star the repo and [subscribe](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA??sub_confirmation=1) to the YouTube channel for more dev content!
